@@ -17,5 +17,10 @@ add comments in the future.
 
 <img width="954" alt="Strategy" src="https://user-images.githubusercontent.com/12571556/104594924-0ee97580-569c-11eb-87b7-394e1bcc9159.png">
 
+# Observer pattern
+
+<img width="944" alt="Observer" src="https://user-images.githubusercontent.com/12571556/104604944-1878da80-56a8-11eb-9289-5dca7af0b3dd.png">
+
+
 
 
