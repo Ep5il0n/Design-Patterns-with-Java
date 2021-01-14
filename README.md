@@ -11,3 +11,12 @@ here just to showcase how a specific design pattern should be implemented. I'll 
 add comments in the future.
 
 //////////////////////
+
+
+# Strategy pattern
+
+<img width="954" alt="Strategy" src="https://user-images.githubusercontent.com/12571556/104594924-0ee97580-569c-11eb-87b7-394e1bcc9159.png">
+
+# Observer pattern
+
+
