@@ -21,6 +21,9 @@ add comments in the future.
 
 <img width="944" alt="Observer" src="https://user-images.githubusercontent.com/12571556/104604944-1878da80-56a8-11eb-9289-5dca7af0b3dd.png">
 
+# Decorator pattern
+
+<img width="911" alt="Decorator" src="https://user-images.githubusercontent.com/12571556/104624883-4c5efa80-56be-11eb-91ca-fc25de353e49.png">
 
 
 
