@@ -25,5 +25,8 @@ add comments in the future.
 
 <img width="911" alt="Decorator" src="https://user-images.githubusercontent.com/12571556/104624883-4c5efa80-56be-11eb-91ca-fc25de353e49.png">
 
+# Factory pattern
+
+<img width="942" alt="Factory" src="https://user-images.githubusercontent.com/12571556/104810860-be9c2000-5821-11eb-8049-23dac7ee2af5.png">
 
 
