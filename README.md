@@ -29,4 +29,9 @@ add comments in the future.
 
 <img width="942" alt="Factory" src="https://user-images.githubusercontent.com/12571556/104810860-be9c2000-5821-11eb-8049-23dac7ee2af5.png">
 
+# Command pattern
+
+A request is wrapped under an object as command and passed to invoker object.
+
+Invoker object looks for the appropriate object which can handle this command and passes the command to the corresponding method/object which executes the command.
 
