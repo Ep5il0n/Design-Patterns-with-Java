@@ -38,3 +38,7 @@ Invoker object looks for the appropriate object which can handle this command an
 # Builder pattern
 
 <img width="604" alt="builderPattern" src="https://user-images.githubusercontent.com/12571556/105450207-3516a300-5ca4-11eb-844b-184025c08565.png">
+
+# Adapter pattern
+
+<img width="810" alt="adapter" src="https://user-images.githubusercontent.com/12571556/105466443-6e5c0c80-5cbe-11eb-98a5-b60aaa3f95c5.png">
