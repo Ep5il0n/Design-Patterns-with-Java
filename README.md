@@ -35,3 +35,6 @@ A request is wrapped under an object as command and passed to invoker object.
 
 Invoker object looks for the appropriate object which can handle this command and passes the command to the corresponding method/object which executes the command.
 
+# Builder pattern
+
+<img width="604" alt="builderPattern" src="https://user-images.githubusercontent.com/12571556/105450207-3516a300-5ca4-11eb-844b-184025c08565.png">
